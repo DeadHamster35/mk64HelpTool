@@ -1,0 +1,27 @@
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OverKart64 Library.csprojAssemblyReference.cache
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OverKart64.GeometryCompiler.resources
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OverKart64.RacerEditor.resources
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OverKart64 Library.csproj.GenerateResource.cache
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OverKart64 Library.csproj.CoreCompileInputs.cache
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OverKart64_Library.Properties.Resources.resources
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\AssimpSharp.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\AssimpSharp.FBX.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\Cereal64.Common.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\Cereal64.Microcodes.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpDX.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpDX.Mathematics.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\Cereal64.Common.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\Cereal64.Microcodes.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OverKart64 Library.csproj.CopyComplete
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\OK64.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\OK64.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OK64.dll
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Release\OK64.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpGL.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpGL.SceneGraph.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpGL.WinForms.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpDX.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpDX.Mathematics.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpGL.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpGL.SceneGraph.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Release\SharpGL.WinForms.xml

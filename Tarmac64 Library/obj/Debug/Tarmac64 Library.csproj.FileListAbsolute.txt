@@ -1,0 +1,54 @@
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\Tarmac64 Library.csprojAssemblyReference.cache
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\Tarmac64.GeometryCompiler.resources
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\OverKart64_Library.Properties.Resources.resources
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\Tarmac64.RacerEditor.resources
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\Tarmac64 Library.csproj.GenerateResource.cache
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\Tarmac64 Library.csproj.CoreCompileInputs.cache
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\OK64.dll
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\OK64.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\OK64.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\OK64.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\AssimpSharp.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\AssimpSharp.FBX.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\Cereal64.Common.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\Cereal64.Microcodes.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpDX.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpDX.Mathematics.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpGL.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpGL.SceneGraph.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpGL.WinForms.dll
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\Cereal64.Common.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\Cereal64.Microcodes.pdb
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpDX.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpDX.Mathematics.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpGL.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpGL.SceneGraph.xml
+E:\software\OverKart64\overkart\OverKart64 Library\bin\Debug\SharpGL.WinForms.xml
+E:\software\OverKart64\overkart\OverKart64 Library\obj\Debug\Tarmac64 Library.csproj.CopyComplete
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\Tarmac64 Library.csprojAssemblyReference.cache
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\Tarmac64.GeometryCompiler.resources
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\Tarmac64.RacerEditor.resources
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\Tarmac64 Library.csproj.GenerateResource.cache
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\Tarmac64 Library.csproj.CoreCompileInputs.cache
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\AssimpSharp.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\AssimpSharp.FBX.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\Cereal64.Common.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\Cereal64.Microcodes.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpDX.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpDX.Mathematics.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpGL.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpGL.SceneGraph.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpGL.WinForms.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\Cereal64.Common.pdb
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\Cereal64.Microcodes.pdb
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpDX.xml
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpDX.Mathematics.xml
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpGL.xml
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpGL.SceneGraph.xml
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\SharpGL.WinForms.xml
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\Tarmac64 Library.csproj.CopyComplete
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\TM64.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\bin\Debug\TM64.pdb
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\Tarmac64_Library.Properties.Resources.resources
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\TM64.dll
+E:\software\Tarmac64\tarmac\Tarmac64 Library\obj\Debug\TM64.pdb

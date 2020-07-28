@@ -1,0 +1,23 @@
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\TM64.dll
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\TM64.pdb
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\Cereal64.Common.dll
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\Cereal64.Microcodes.dll
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpGL.dll
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpGL.SceneGraph.dll
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpGL.WinForms.dll
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\Cereal64.Common.pdb
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\Cereal64.Microcodes.pdb
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpDX.xml
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpDX.Mathematics.xml
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpGL.xml
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpGL.SceneGraph.xml
+E:\software\copyman\CopyMan\Tarmac64 Library\bin\Release\SharpGL.WinForms.xml
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\Tarmac64 Library.csprojAssemblyReference.cache
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\Tarmac64.GeometryCompiler.resources
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\Tarmac64_Library.Properties.Resources.resources
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\Tarmac64.RacerEditor.resources
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\Tarmac64 Library.csproj.GenerateResource.cache
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\Tarmac64 Library.csproj.CoreCompileInputs.cache
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\Tarmac64 Library.csproj.CopyComplete
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\TM64.dll
+E:\software\copyman\CopyMan\Tarmac64 Library\obj\Release\TM64.pdb
