@@ -27,3 +27,5 @@ E:\software\copyman\CopyMan\CopyMan\obj\Release\MK64Helper.pdb
 E:\software\copyman\CopyMan\CopyMan\obj\Release\MK64 Helper.csprojAssemblyReference.cache
 E:\software\copyman\CopyMan\CopyMan\bin\Release\Cereal64.Microcodes.dll
 E:\software\copyman\CopyMan\CopyMan\bin\Release\Cereal64.Microcodes.pdb
+E:\software\copyman\CopyMan\CopyMan\bin\Release\Aspose.3D.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Release\Aspose.3D.xml

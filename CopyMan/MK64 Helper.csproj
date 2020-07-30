@@ -36,6 +36,9 @@
     <ApplicationIcon>Mario Kart 64.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Aspose.3D, Version=20.7.0.0, Culture=neutral, PublicKeyToken=f071c641d0b4582b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aspose.3D.20.7.0\lib\net46\Aspose.3D.dll</HintPath>
+    </Reference>
     <Reference Include="Cereal64.Common, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\cereal64\Cereal64.Common.dll</HintPath>

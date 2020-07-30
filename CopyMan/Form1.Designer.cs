@@ -173,13 +173,12 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(264, 133);
+            this.button10.Location = new System.Drawing.Point(254, 128);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(75, 23);
             this.button10.TabIndex = 13;
-            this.button10.Text = "SMSR";
+            this.button10.Text = "TOWN";
             this.button10.UseVisualStyleBackColor = true;
-            this.button10.Visible = false;
             this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // Form1

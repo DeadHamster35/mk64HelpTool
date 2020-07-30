@@ -1,6 +1,7 @@
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\MK64Helper.exe.config
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\MK64Helper.exe
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\MK64Helper.pdb
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\Aspose.3D.dll
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Common.dll
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Microcodes.dll
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\TM64.dll
@@ -12,6 +13,7 @@ E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.dll
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpDX.dll
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.SceneGraph.dll
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\TM64.pdb
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\Aspose.3D.xml
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Common.pdb
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Microcodes.pdb
 E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpDX.Mathematics.xml

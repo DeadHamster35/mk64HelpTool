@@ -14,6 +14,9 @@ using Tarmac64_Library;
 using Cereal64;
 using Texture64;
 using System.Drawing.Imaging;
+using Aspose;
+using Aspose.ThreeD;
+using System.Globalization;
 
 namespace MK64Help
 {
@@ -291,7 +294,8 @@ namespace MK64Help
 
                     if (fileSave.ShowDialog() == DialogResult.OK)
                     {
-                        tarmac64.dumpface2(segment4, segment7, fileSave.FileName);
+                        Aspose.ThreeD.Scene exportData = tarmac64.dumpface2(segment4, segment7);
+                        exportData.Save(fileSave.FileName, FileFormat.WavefrontOBJ);
                     }
                 }
             }
@@ -324,19 +328,54 @@ namespace MK64Help
         {
             if (fileOpen.ShowDialog() == DialogResult.OK)
             {
-                byte[] fileData = File.ReadAllBytes(fileOpen.FileName);
-                TM64 tarmac64 = new TM64();
 
+                string[] fileData = File.ReadAllLines(fileOpen.FileName);
+                List<byte> segment4 = new List<byte>();
+                List<byte> segment7 = new List<byte>();
 
-                byte[] uncompressedData = tarmac64.decompressSMSR(fileData);
+                for (int currentLine = 4; currentLine < 2222; currentLine++)
+                {
+                    fileData[currentLine] = fileData[currentLine].Replace("0x", "");
+                    string[] byteString = fileData[currentLine].Split(',');
+                    
+                    foreach(string thisLine in byteString)
+                    {
+                        if (thisLine != "")
+                        {
+                            segment4.Add(byte.Parse(thisLine, System.Globalization.NumberStyles.HexNumber));
+                        }
+                    }
+                }
+
+                for (int currentLine = 2238; currentLine < 3202; currentLine++)
+                {
+                    fileData[currentLine] = fileData[currentLine].Replace("0x", "");
+                    string[] byteString = fileData[currentLine].Split(',');
+
+                    foreach (string thisLine in byteString)
+                    {
+                        if (thisLine != "")
+                        {
+                            segment7.Add(byte.Parse(thisLine, System.Globalization.NumberStyles.HexNumber));
+                        }
+                    }
+                }
+
+                byte[] seg4 = tarmac64.decompressMIO0(segment4.ToArray());
+                byte[] seg7 = tarmacLibrary.decompress_seg7(segment7.ToArray());
+
+                MessageBox.Show("File Save");
+                SaveFileDialog fileSave = new SaveFileDialog();
 
                 if (fileSave.ShowDialog() == DialogResult.OK)
                 {
-                    File.WriteAllBytes(fileSave.FileName, uncompressedData);
+                    Aspose.ThreeD.Scene exportData = tarmac64.dumpface2(seg4, seg7);
+                    exportData.Save(fileSave.FileName, FileFormat.WavefrontOBJ);
                 }
-
             }
+
         }
+        
     }
     
     
