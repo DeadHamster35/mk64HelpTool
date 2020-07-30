@@ -1,0 +1,29 @@
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\MK64Helper.exe.config
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\MK64Helper.exe
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\MK64Helper.pdb
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Common.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Microcodes.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\TM64.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\AssimpSharp.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpDX.Mathematics.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\AssimpSharp.FBX.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.WinForms.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpDX.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.SceneGraph.dll
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\TM64.pdb
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Common.pdb
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\Cereal64.Microcodes.pdb
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpDX.Mathematics.xml
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.WinForms.xml
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.xml
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpDX.xml
+E:\software\copyman\CopyMan\CopyMan\bin\Debug\SharpGL.SceneGraph.xml
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64 Helper.csprojAssemblyReference.cache
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64Help.Form1.resources
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64Helper.Properties.Resources.resources
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64 Helper.csproj.GenerateResource.cache
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64 Helper.csproj.CoreCompileInputs.cache
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64 Helper.csproj.CopyComplete
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64Helper.exe
+E:\software\copyman\CopyMan\CopyMan\obj\Debug\MK64Helper.pdb

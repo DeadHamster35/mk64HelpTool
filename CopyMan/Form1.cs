@@ -23,7 +23,7 @@ namespace MK64Help
         {
             InitializeComponent();
         }
-
+        TM64 tarmac64 = new TM64();
         TM64_Geometry tarmacLibrary = new TM64_Geometry();
         FolderBrowserDialog folderOpen = new FolderBrowserDialog();
         OpenFileDialog fileOpen = new OpenFileDialog();
@@ -291,7 +291,7 @@ namespace MK64Help
 
                     if (fileSave.ShowDialog() == DialogResult.OK)
                     {
-                        tarmacLibrary.dumpface2(segment4, segment7, fileSave.FileName);
+                        tarmac64.dumpface2(segment4, segment7, fileSave.FileName);
                     }
                 }
             }
@@ -310,6 +310,29 @@ namespace MK64Help
                 if (saveFile.ShowDialog() == DialogResult.OK)
                 {
                     File.WriteAllLines(saveFile.FileName, outData);
+                }
+
+            }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            if (fileOpen.ShowDialog() == DialogResult.OK)
+            {
+                byte[] fileData = File.ReadAllBytes(fileOpen.FileName);
+                TM64 tarmac64 = new TM64();
+
+
+                byte[] uncompressedData = tarmac64.decompressSMSR(fileData);
+
+                if (fileSave.ShowDialog() == DialogResult.OK)
+                {
+                    File.WriteAllBytes(fileSave.FileName, uncompressedData);
                 }
 
             }

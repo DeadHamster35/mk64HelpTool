@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MK64 Helper", "CopyMan\MK64 Helper.csproj", "{50244D89-56E7-456B-8637-DA9808DB3D72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarmac64 Library", "Tarmac64 Library\Tarmac64 Library.csproj", "{BD044BBD-727B-40AC-B6BA-087E81864333}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarmac64 Library", "..\..\Tarmac64\tarmac\Tarmac64 Library\Tarmac64 Library.csproj", "{BD044BBD-727B-40AC-B6BA-087E81864333}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
